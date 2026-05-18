@@ -1,0 +1,62 @@
+     body{
+        margin: 0px;
+        color: #5F77A0;
+       text-align: center;
+       font-family: orbitron;
+       
+     }
+     .container-div{
+        margin: 0;       
+        background-image: url(guillermo-ferla-Oze6U2m1oYU-unsplash.jpg);
+        background-size: cover ; 
+        background-repeat: no-repeat;   
+        background-position:center;
+        height: 80vh;
+        font-family: orbitron;
+    }
+     .title-h1 {
+      
+       
+        font-size: 4em;
+        margin-top: 0px;
+        text-shadow: 0px 0px 4px black;
+    
+     }
+    
+    .apply-button {
+        height: 40px;
+        padding-left:15px;
+        padding-right: 15px;
+        border: none;
+        font-size: 1.1em;
+        font-weight: bold;  
+        background-color: white;
+               color: #5F77A0;
+ 
+        font-family: inherit;
+       
+    }
+    .apply-button:hover {
+        cursor: pointer;
+    }
+    .logoimg-container {
+        height: 200px;
+        width: 100vw;
+    }
+    .logo-img {
+        height: 200px;
+        width: 100%;
+
+    }
+    .underline-util{
+        border-bottom: 4px solid white;
+
+    }
+    .terms-h3 {
+        font-family: orbitron;
+     
+        font-size: 2em;
+        font-weight: bold;
+
+        text-shadow: 0px 0px 3px black;
+    }
